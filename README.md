@@ -5,4 +5,5 @@ Ore-Ida reg form
 
 Members
 --------
-- [x] Jake Overall
+- Jake Overall
+- Bert Allen
